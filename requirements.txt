@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+matplotlib
+networkx
+graphviz
+python-graphviz
+openpyxl
